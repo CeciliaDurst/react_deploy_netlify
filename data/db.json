@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "One half pound bag of Cocoa Covered Almonds"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "One box of extra toasty Cheez-Its"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Gingersnaps"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Foodstuffs"
+    }
+  ]
+}
